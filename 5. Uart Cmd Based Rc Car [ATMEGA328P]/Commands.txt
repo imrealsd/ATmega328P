@@ -1,0 +1,8 @@
+----COMMANDS------
+
+1. F (Move Forword)
+2. B (Move Backword)
+3. L  (Move left)
+4. R  (Move Right)
+5. H  (Blow Horn)
+6. S  (Stop)
